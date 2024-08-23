@@ -10,7 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/socraticprogrammer/git-flow-automation-for-azure-devops.git"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "zx",
+    "git",
+    "git flow",
+    "script",
+    "scripts",
+    "azure devops",
+    "pr",
+    "pull request"
+  ],
   "author": {
     "name": "Thalles Lossurdo",
     "email": "thallesgabriel1307@gmail.com",
