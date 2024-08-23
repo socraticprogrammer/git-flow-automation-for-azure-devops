@@ -1,0 +1,24 @@
+{
+  "name": "git-flow-automation-for-azure-devops",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to automate the process of use Git Flow with PR's on Azure Devops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socraticprogrammer/git-flow-automation-for-azure-devops.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Thalles Lossurdo",
+    "email": "thallesgabriel1307@gmail.com",
+    "url": "https://bit.ly/thalles-lossurdo"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socraticprogrammer/git-flow-automation-for-azure-devops/issues"
+  },
+  "homepage": "https://github.com/socraticprogrammer/git-flow-automation-for-azure-devops#readme"
+}
