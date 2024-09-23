@@ -25,16 +25,7 @@
       "ES2022",
       "ES2023"
     ],
-    "typeRoots": ["node_modules/@types/", "./src/@types/"],
-    "paths": {
-      "@/domain/*": ["./src/domain/*"],
-      "@/app/*": ["./src/app/*"],
-      "@/presentation/*": ["./src/presentation/*"],
-      "@/main/*": ["./src/main/*"],
-      "@/infra/*": ["./src/infra/*"],
-      "@/validation/*": ["./src/validation/*"],
-      "@/shared/*": ["./src/shared/*"]
-    }
+    "typeRoots": ["node_modules/@types/", "./src/@types/"]
   },
   "include": ["./package.json", "src/**/*", "tests/*"],
   "exclude": ["node_modules/", "dist/", "coverage/"]
