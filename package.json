@@ -4,7 +4,7 @@
   "description": "This repository is dedicated to automate the process of use Git Flow with PR's on Azure Devops.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./dist/out.js",
     "build": "node build.mjs",
     "style": "prettier . --write"
   },
