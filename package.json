@@ -4,7 +4,8 @@
   "description": "This repository is dedicated to automate the process of use Git Flow with PR's on Azure Devops.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.mjs"
   },
   "repository": {
     "type": "git",
@@ -36,6 +37,7 @@
     "@types/node": "^22.5.5",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.0.0",
+    "esbuild": "^0.24.0",
     "eslint": "^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^18.0.0",
