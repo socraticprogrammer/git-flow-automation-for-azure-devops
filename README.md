@@ -6,8 +6,8 @@ This repository is dedicated to automate the process of use Git Flow with PR's o
 
 ### When start short-lived branch
 
-1. Create Pull Request as a draft on Azure Devops
-2. Create and checkout to short-lived branch [feature, hotfix... whatever]
+1. Create and checkout to short-lived branch [feature, hotfix... whatever]
+2. Create Pull Request as a draft on Azure Devops
 
 ### When finish the work on short-lived branch
 
