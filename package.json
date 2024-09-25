@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This repository is dedicated to automate the process of use Git Flow with PR's on Azure Devops.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node ./dist/out.js",
     "build": "node build.mjs",
