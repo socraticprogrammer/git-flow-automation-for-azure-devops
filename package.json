@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./dist/out.js",
     "prestart": "pnpm build",
-    "test": "pnpm start some-branch --project \"  inMessaging   \" --repository templates-api    --reviewers thalles.lossurdo@nibi.com.br rafael.bortolato@nibi.com.br",
+    "test": "pnpm start some-branch --branch-type feature --project \"  inMessaging   \" --repository templates-api    --reviewers thalles.lossurdo@nibi.com.br rafael.bortolato@nibi.com.br",
     "build": "node build.mjs",
     "style": "prettier . --write"
   },
