@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node ./dist/out.js",
+    "prestart": "pnpm build",
     "build": "node build.mjs",
     "style": "prettier . --write"
   },
