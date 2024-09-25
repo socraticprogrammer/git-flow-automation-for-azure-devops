@@ -22,3 +22,4 @@ This repository is dedicated to automate the process of use Git Flow with PR's o
 
 - [] Support feature branches
 - [] Support hotfix branches
+- [] Support release branches
