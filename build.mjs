@@ -1,4 +1,4 @@
-import esbuild from 'esbuild';
+import esbuild from 'esbuild'
 
 await esbuild.build({
   entryPoints: ['./src/main.ts'],
@@ -6,4 +6,5 @@ await esbuild.build({
   minify: true,
   platform: 'node',
   outfile: './dist/out.js',
-});
+  external: ['zx'],
+})
